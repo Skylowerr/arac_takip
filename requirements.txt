@@ -1,0 +1,5 @@
+ultralytics
+easyocr
+opencv-python
+numpy
+huggingface-hub>=0.25,<2.0
